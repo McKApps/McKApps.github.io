@@ -1,0 +1,21 @@
+.navbar{
+    transition: top 0.3s;
+}
+
+.html5button{
+    transition: box-shadow 0.3s;
+}
+
+.glass{
+    background: rgba(51, 51, 51, 0.7);
+}
+
+body{
+        background-image: url("./images/skymountains.jpg") no-repeat center center fixed;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
